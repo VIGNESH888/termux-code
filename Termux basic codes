@@ -5,3 +5,5 @@ $pkg upgrade
 $install python2
 
 $install pip2
+
+$pkg install (packagename)
